@@ -1,4 +1,4 @@
-#Logistic Regression Project
+# Logistic Regression Project
 
 This learning project is working with a advertising data set, to determine a particular internet user clicked on an Advertisement. This is also to create a model that will predict user click on an ad based off the features of that user.
 
